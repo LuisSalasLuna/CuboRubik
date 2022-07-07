@@ -4,7 +4,14 @@ Este proyecto busca programar un cubo de Rubik virtual creado con computación g
 * Respiración: Combina transformaciones de escala y transformacio para simular un efecto de respiracion individual por cubo
 * Armado: Genera posiciones aleatorias iniciales para los cubos individuales y los reordena en intervalos
 
+Solver:
+
+Implementamos una versión del algoritmo de Thisletwaite junto con la técnica de la base de datos de patrones
+
+https://github.com/conanwu777/rubik
+
 Cubo armado:
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/54364183/177815789-47f5b831-a968-4108-86d2-3a7f461141c5.gif)
 
 Camadas:
@@ -38,11 +45,8 @@ Libre:
 Armado (2da animación): 
 - Z: Ensambla el cubo en partes.
   
-![desorden](https://user-images.githubusercontent.com/54364183/177804787-f39ca54c-fd71-43db-96a1-e0f819e73ef5.PNG)
-![giro](https://user-images.githubusercontent.com/54364183/177804825-f3663d13-9a80-45ac-9e8c-7c30cdaadf85.PNG)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/54364183/177817180-3ca2c5db-f34b-4250-b576-59e82f7baa1b.gif)
 
-ffmpeg -i video.mp4  -r 1 'frame-%03d.png'
-convert -delay 50 -loop 0 *.png myimage.gif
 
 
 
