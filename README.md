@@ -1,4 +1,9 @@
 # CuboRubik
+Objetivo:
+Este proyecto busca programar un cubo de Rubik virtual creado con computación gráfica usando la biblioteca OpenGL y adicionalmente unir esta implementación a un solver especifico que resuelva el cubo. Adicionalmente, se definio un conjunto de animaciones especifica para los grupos:
+1 Respiración: Combina transformaciones de escala y transformacio para simular un efecto de respiracion individual por cubo
+2 Armado: Genera posiciones aleatorias iniciales para los cubos individuales y los reordena en intervalos
+
 Cubo armado:
 
 ![partes](https://user-images.githubusercontent.com/54364183/177804224-ee9c8ae6-230d-4751-8e1d-ed4099047149.PNG)
