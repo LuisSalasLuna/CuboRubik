@@ -1,5 +1,6 @@
 # CuboRubik
 Cubo armado:
+
 ![partes](https://user-images.githubusercontent.com/54364183/177804224-ee9c8ae6-230d-4751-8e1d-ed4099047149.PNG)
 ![armado](https://user-images.githubusercontent.com/54364183/177804246-ae7d5085-bf86-48ad-bebe-a68ce2444eba.PNG)
 
