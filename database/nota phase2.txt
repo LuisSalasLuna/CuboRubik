@@ -1,0 +1,3 @@
+Archivo muy grande, revise
+https://github.com/conanwu777/rubik/tree/master/database
+y agreguelo en la carpeta
